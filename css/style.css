@@ -1,0 +1,135 @@
+
+ 
+ /* home */
+
+
+ #headline{
+     margin-top: 1em;
+     margin-left: .5em;
+     color: black;
+     font-weight: 900;
+     font-family: cursive;
+ }
+ .corose{
+     
+    margin-top: 4em;
+ }
+ .pp{
+     margin-top: 5em;
+     margin-right: 3em;
+     float: right;
+     font-family: cursive;
+     font-weight: 900;
+     color: black;
+     padding: 1em;
+     
+ }
+ 
+ /* login */
+.loginform{
+
+   border: 2px solid black;
+   align-self: center;
+   padding: 1em;
+   margin-right: 55em;
+   margin-left: 10em;
+}
+.button2{
+    width: 8em;
+    
+
+}
+
+
+/* login */
+
+
+/* newacc */
+
+.newacc{
+    border: 2px solid black;
+    padding: 2em;
+    margin-top: 5%;
+    margin-right: 50%;
+    margin-left: 5em;
+}
+.list-unstyled{
+    margin: 10%;
+}
+
+#email1{
+    width: 20em;
+}
+
+.button1{
+    width: 20em;
+}
+
+
+
+
+/* newacc */
+
+
+
+/* district */
+.list-group{
+    margin-top: 3em;
+    margin-left: 0em; ;
+    margin-right: 35em;
+    
+    color: transparent;
+}
+.listhead{
+    background-color: burlywood;
+    padding: 2em;
+}
+.list-group-item{
+    padding: 2em;
+    
+}
+
+
+
+
+/* end-district */
+
+/* all dist */
+
+#disrttitle{
+    margin: 4%;
+    margin-left: 4em;
+    color:black;
+}
+.mediabody{
+    font-family: cursive;
+    font-weight: 100;
+    color:black;
+}
+
+button{
+    margin: 20px;
+    color: white;
+    background-color: black;
+    margin-bottom: em;
+    padding: 3px;
+    
+}
+button:hover{
+    background-color: dodgerblue;
+    color: greenyellow;
+}
+
+
+ /*footer  */
+ .footer {
+   
+    left: 0;
+    margin-bottom: 0em;
+    width: 100%;
+  
+    background-color:transparent;
+    color:white;
+    text-align: center;
+  }
+  /* footer end */
